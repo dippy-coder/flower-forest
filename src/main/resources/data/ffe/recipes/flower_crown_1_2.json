@@ -1,0 +1,23 @@
+{
+"type": "minecraft:crafting_shaped",
+"pattern": [
+"/D/",
+"P P",
+"/D/"
+],
+"key": {
+"/": {
+"item": "minecraft:stick"
+},
+"P": {
+"item": "minecraft:poppy"
+},
+"D": {
+"item": "minecraft:dandelion"
+}
+},
+"result": {
+"item": "ffe:flower_crown",
+"count": 1
+}
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "ffe:honey_ball"
+    }
+  },
+  "result": {
+    "item": "ffe:honey_trap",
+    "count": 4
+  }
+}

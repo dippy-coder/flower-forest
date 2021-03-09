@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/A/",
+    "C C",
+    "/A/"
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "minecraft:allium"
+    },
+    "C": {
+      "item": "minecraft:cornflower"
+    }
+  },
+  "result": {
+    "item": "ffe:flower_crown_2",
+    "count": 1
+  }
+}
